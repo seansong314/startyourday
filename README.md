@@ -1,4 +1,3 @@
-# Momonton
 
 A clone of the productivity chrome app [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) on Vanilla JS
 
@@ -13,4 +12,4 @@ A clone of the productivity chrome app [Momentum](https://chrome.google.com/webs
 
 ## Try it out
 
-[https://serranoarevalo.github.io/momonton/](https://serranoarevalo.github.io/momonton/)
+https://seansong314.github.io/startyourday/
